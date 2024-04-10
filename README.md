@@ -1,5 +1,5 @@
 # Hello, I'm NYASHA
-<a href="https://linkedin.com//nyasha-chakanetsa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nyasha-chakanetsa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Network Security and Computer Forensics student with a profound interest in technology and a dedication to solving complex problems.
 
