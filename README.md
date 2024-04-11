@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | SIEM Home Lab|
-| Network Traffic Monitoring and Attack Detection |Burpsuite Vulnerability Scan Project|
+| Network Traffic Monitoring and Attack Detection |<a href="https://github.com/8ball24/Burpsuite-Vulnerabilityy-Scan-Project">Burpsuite-Vulnerabilityy-Scan-Project</a>|
 | Incident Response Planning and Execution      | SIEM Home Lab|
 | Scripting and Automation for Threat Mitigation | User Authentication System|
 
@@ -43,6 +43,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - SIEM Home Lab
-- Burpsuite Vulnerability Scan Project
+- <a href="https://github.com/8ball24/Burpsuite-Vulnerabilityy-Scan-Project">Burpsuite-Vulnerabilityy-Scan-Project</a>
 - User Authentication System
 - Image Steganography System
